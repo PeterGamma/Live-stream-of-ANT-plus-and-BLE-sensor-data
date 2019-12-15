@@ -1,2 +1,1 @@
-# Live-stream-of-sensor-data-from-Garmin-watches
-MATLAB Python or other desktop applications
+https://www.eevblog.com/forum/cloud-computing/garmin-watch-connectiq-watch-iot-microsoft-azure-platform/msg2828468/#msg2828468
