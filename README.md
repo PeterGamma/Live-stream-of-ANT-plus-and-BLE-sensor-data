@@ -1,3 +1,8 @@
+
+Discussion in the MATLAB community:
+
+https://www.mathworks.com/matlabcentral/answers/142677-capturing-heart-rate-from-usb-ant-dongle-and-chest-strap
+
 Discussion about EventHubApp:
 
 https://forums.garmin.com/developer/connect-iq/f/discussion/209439/eventhubapp
