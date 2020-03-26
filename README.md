@@ -20,12 +20,6 @@ Discussion about sensor accuracy:
 
 https://the5krunner.com/2019/04/06/polar-oh1-review-2019/#PRICING_AVAILABILITY_Polar_OH1_Review
 
-..
-
-Integration of the GARMIN watch into the Mind Monitor
-
-https://mind-monitor.com/forums/viewtopic.php?f=15&p=1825#p1825
-
 .
 .
 There is a ANT to Serial Converter from Moxy to get ANT+ sensor data into Matlab:
