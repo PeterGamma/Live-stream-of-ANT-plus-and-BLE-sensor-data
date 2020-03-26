@@ -31,8 +31,4 @@ https://mind-monitor.com/forums/viewtopic.php?f=15&p=1825#p1825
 
 Moxymonitor:
 https://www.moxymonitor.com/product/ant-to-serial-converter/
-makes a device for our Moxy users to get data into Matlab.
-
-This captures the ANT+ signals and converts them to a serial stream on a USB port. You have to program Matlab to read the COM port. There's example code in the manual.
-
-It works for other profiles besides the MO2 profile too. Newer model also has analog outputs for up to 4 of the channels. 
+makes a device for our Moxy users to get data into Matlab. This captures the ANT+ signals and converts them to a serial stream on a USB port. You have to program Matlab to read the COM port. There's example code in the manual. It works for other profiles besides the MO2 profile too. Newer model also has analog outputs for up to 4 of the channels. 
