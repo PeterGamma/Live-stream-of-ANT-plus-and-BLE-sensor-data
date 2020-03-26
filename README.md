@@ -33,4 +33,6 @@ Moxymonitor: There is also a device from Moxy to get ANT+ sensor data into Matla
 
 https://www.moxymonitor.com/product/ant-to-serial-converter/
 
-There's  an example code for MATLAB in the manual.
+The Manual with the example code for MATLAB is specially designed for MATLAB:
+
+https://cdn2.hubspot.net/hubfs/188620/docs/Serial%20Format.pdf
