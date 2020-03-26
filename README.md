@@ -20,8 +20,6 @@ Discussion about sensor accuracy:
 
 https://the5krunner.com/2019/04/06/polar-oh1-review-2019/#PRICING_AVAILABILITY_Polar_OH1_Review
 
-.
-.
 
 There is a ANT to Serial Converter from Moxy to get ANT+ sensor data into Matlab:
 
@@ -30,3 +28,8 @@ https://www.moxymonitor.com/product/ant-to-serial-converter/
 The Manual with the example code for MATLAB is specially designed for MATLAB:
 
 https://cdn2.hubspot.net/hubfs/188620/docs/Serial%20Format.pdf
+
+GARMIN watch and Mind Monitor:
+
+https://mind-monitor.com/forums/viewtopic.php?f=15&t=1116
+
