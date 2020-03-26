@@ -30,5 +30,7 @@ https://mind-monitor.com/forums/viewtopic.php?f=15&p=1825#p1825
 .
 
 Moxymonitor: There is also a device from Moxy to get ANT+ sensor data into Matlab:
+
 https://www.moxymonitor.com/product/ant-to-serial-converter/
+
 There's  an example code for MATLAB in the manual.
