@@ -29,6 +29,11 @@ The Manual with the example code is written for MATLAB:
 
 https://cdn2.hubspot.net/hubfs/188620/docs/Serial%20Format.pdf
 
+The Moxymonitor ANT to Serial Converter can be connected to Dr. Scott Hardens ScottPlot:
+
+https://www.thisisant.com/forum/viewthread/7074/P30
+
+
 GARMIN watch and Mind Monitor:
 
 https://mind-monitor.com/forums/viewtopic.php?f=15&t=1116
