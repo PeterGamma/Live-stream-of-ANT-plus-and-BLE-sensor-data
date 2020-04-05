@@ -33,8 +33,10 @@ Can the Moxymonitor ANT to Serial Converter be connected to Dr. Scott Hardens Sc
 
 https://www.thisisant.com/forum/viewthread/7074/P30
 
+https://forums.garmin.com/developer/connect-iq/f/discussion/8077/sending-sensors-data-to-pc
 
 GARMIN watch and Mind Monitor:
 
 https://mind-monitor.com/forums/viewtopic.php?f=15&t=1116
+
 
