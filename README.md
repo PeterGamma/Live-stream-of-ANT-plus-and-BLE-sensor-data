@@ -20,7 +20,7 @@ Discussion about sensor accuracy with the5krunner:
 
 https://the5krunner.com/2019/04/06/polar-oh1-review-2019/#PRICING_AVAILABILITY_Polar_OH1_Review
 
-Data can also be manually imported (post-processing) from GARMIN.fit files:
+Data can also be manually imported (post-processing) from GARMIN .fit files:
 
 https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/122799/see-all-date-exported-in-fit-file---maybe-excel-oder-some-other-program/683009
 
