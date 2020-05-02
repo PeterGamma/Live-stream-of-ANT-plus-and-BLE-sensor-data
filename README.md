@@ -3,10 +3,9 @@ Discussion in the MATLAB community:
 
 https://www.mathworks.com/matlabcentral/answers/142677-capturing-heart-rate-from-usb-ant-dongle-and-chest-strap
 
-Discussion about Dave Does Demos EventHubApp:
+Raspberry Pi Ant+ MQTT-Broker:
 
-https://forums.garmin.com/developer/connect-iq/f/discussion/209439/eventhubapp
-
+https://www.thisisant.com/forum/viewthread/7074/P30
 
 Discussion about GARMIN watch - ConnectIQ-Watch-IoT - Microsoft Azure Platform:
 
