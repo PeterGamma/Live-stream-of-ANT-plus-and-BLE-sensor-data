@@ -21,5 +21,4 @@ https://the5krunner.com/2019/04/06/polar-oh1-review-2019/#PRICING_AVAILABILITY_P
 
 Python script from Max Candocia to Convert Garmin FIT Files to CSV (post-processing):
 
-https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/224464/max-candocia-fit-to-csv-python-script
-
+https://github.com/PeterGamma/Max-Candocia-FIT-to-CSV-python-script
