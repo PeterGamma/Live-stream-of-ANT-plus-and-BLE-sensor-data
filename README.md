@@ -7,7 +7,7 @@ Raspberry Pi Ant+ MQTT-Broker:
 
 https://www.thisisant.com/forum/viewthread/7074/P30
 
-Discussion about GARMIN watch - ConnectIQ-Watch-IoT - Microsoft Azure Platform:
+Discussion about GARMIN watch - ConnectIQ-Watch-IoT - Microsoft Azure Platform (Dave Lusty):
 
 https://www.eevblog.com/forum/cloud-computing/garmin-watch-connectiq-watch-iot-microsoft-azure-platform/msg2828468/
 
