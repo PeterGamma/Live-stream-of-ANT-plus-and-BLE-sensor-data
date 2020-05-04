@@ -11,7 +11,7 @@ Discussion about GARMIN watch - ConnectIQ-Watch-IoT - Microsoft Azure Platform:
 
 https://www.eevblog.com/forum/cloud-computing/garmin-watch-connectiq-watch-iot-microsoft-azure-platform/msg2828468/
 
-Live-stream from Garmin watches via ANT+ stick & virtual box
+Live-stream from Garmin watches via ANT+ stick & virtual box (Darren Hague)
 
 https://www.eevblog.com/forum/cloud-computing/live-stream-from-garmin-watches-via-ant-stick-virtual-box-(evtl-coud-iot)/
 
