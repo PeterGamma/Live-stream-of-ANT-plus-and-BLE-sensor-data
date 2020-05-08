@@ -1,5 +1,5 @@
 
-Discussion in the MATLAB community:
+Discussion in the MATLAB community (USB ANT+ stick solution):
 
 https://www.mathworks.com/matlabcentral/answers/142677-capturing-heart-rate-from-usb-ant-dongle-and-chest-strap
 
