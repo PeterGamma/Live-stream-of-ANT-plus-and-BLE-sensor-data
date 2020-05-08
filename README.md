@@ -19,6 +19,6 @@ Discussion about sensor accuracy (The5krunner):
 
 https://the5krunner.com/2019/04/06/polar-oh1-review-2019/#PRICING_AVAILABILITY_Polar_OH1_Review
 
-Python script from to Convert Garmin FIT Files to CSV (Max Candocia):
+Python script to Convert Garmin FIT Files to CSV (Max Candocia):
 
 https://github.com/PeterGamma/Max-Candocia-FIT-to-CSV-python-script
