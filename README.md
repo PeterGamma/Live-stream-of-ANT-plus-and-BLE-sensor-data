@@ -22,3 +22,7 @@ https://the5krunner.com/2019/04/06/polar-oh1-review-2019/#PRICING_AVAILABILITY_P
 Python script to Convert Garmin FIT Files to CSV (Max Candocia):
 
 https://www.thisisant.com/forum/viewthread/7358/
+
+Rasperry PI zero watch project (Peter Gamma):
+
+https://www.thisisant.com/forum/viewthread/7362/
