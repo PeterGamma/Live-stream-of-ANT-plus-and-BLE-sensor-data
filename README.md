@@ -23,6 +23,6 @@ Python script to Convert Garmin FIT Files to CSV (Max Candocia):
 
 https://www.thisisant.com/forum/viewthread/7358/
 
-Rasperry PI zero watch project (Peter Gamma):
+Rasperry PI zero watch project? (Peter Gamma):
 
 https://www.thisisant.com/forum/viewthread/7362/
