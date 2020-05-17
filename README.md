@@ -27,7 +27,10 @@ Rasperry PI zero watch project? (Peter Gamma):
 
 https://www.thisisant.com/forum/viewthread/7362/
 
-a training tracker open source project (Dr. Ing.Rainer Blind), adding option to live stream of sensor data to Matlab or Python trough a MQQT Brocker #34
+a training tracker open source project (Dr. Ing.Rainer Blind)
+
+Feature request: adding option to live stream of sensor data to Matlab or Python trough a MQQT Brocker #34
+
 https://github.com/rainerblind/aTrainingTracker/issues/34
 
 
