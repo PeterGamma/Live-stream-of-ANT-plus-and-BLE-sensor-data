@@ -5,7 +5,7 @@ https://www.mathworks.com/matlabcentral/answers/142677-capturing-heart-rate-from
 
 Raspberry Pi Ant+ to MQTT-Broker connection (Reto Rölli):
 
-https://www.thisisant.com/forum/viewthread/7074/P60
+https://www.thisisant.com/forum/viewthread/7360/
 
 Discussion about GARMIN watch - ConnectIQ-Watch-IoT - Microsoft Azure Platform (Dave Lusty):
 
