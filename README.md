@@ -27,13 +27,13 @@ Rasperry PI zero watch project? (Peter Gamma):
 
 https://www.thisisant.com/forum/viewthread/7362/
 
-a training tracker open source project (Dr. Ing. Rainer Blind)
+A TRAINING TRACKER (open source project, Dr. Ing. Rainer Blind)
 
 Feature request: adding option to live stream of sensor data to Matlab or Python trough a MQQT Brocker #34
 
 https://github.com/rainerblind/aTrainingTracker/issues/34
 
-a training tracker stores data in .csv format on the smartphone, as well as in other formats 
+A TRAINING TRACKER stores data in .csv format on the smartphone, as well as in other formats 
 
 https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/226152/does-someone-work-on-the-android-application-a-training-tracker/1068421#1068421
 
