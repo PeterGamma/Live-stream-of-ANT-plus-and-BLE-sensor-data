@@ -33,7 +33,7 @@ Feature request: adding option to live stream of sensor data to Matlab or Python
 
 https://github.com/rainerblind/aTrainingTracker/issues/34
 
-a training tracker can record in real time to .csv
+a training tracker stores data in .csv format on the smartphone, as well as in other formats 
 
 https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/226152/does-someone-work-on-the-android-application-a-training-tracker/1068421#1068421
 
