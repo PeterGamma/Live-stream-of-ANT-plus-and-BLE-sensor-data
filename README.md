@@ -37,7 +37,7 @@ A TRAINING TRACKER stores data in .csv format on the smartphone, as well as in o
 
 https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/226152/does-someone-work-on-the-android-application-a-training-tracker/1068421#1068421
 
-Someone has a trouble with my posts in the Garmin forum, reason unknown. My posts are in the range of other posts in the Garmin Forum. In case of troubles, posting is also possible here
+Someone had a trouble with my posts in the Garmin forum, reason unknown. My posts are in the range of other posts in the Garmin Forum. In case of troubles, posting is also possible here
 
 https://www.thisisant.com/forum/viewthread/7363/
 
