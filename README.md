@@ -23,7 +23,7 @@ Python script to Convert Garmin FIT Files to CSV (Max Candocia):
 
 https://www.thisisant.com/forum/viewthread/7358/
 
-Rasperry PI zero watch or Pinephone? (Peter Gamma):
+Rasperry PI zero watch or Pinephone as data aquisition device? (Peter Gamma):
 
 https://www.thisisant.com/forum/viewthread/7362/
 
