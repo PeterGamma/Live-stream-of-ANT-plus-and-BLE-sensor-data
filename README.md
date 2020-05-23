@@ -27,13 +27,7 @@ https://www.thisisant.com/forum/viewthread/7358/
 
 https://www.thisisant.com/forum/viewthread/7362/
 
-8. A TRAINING TRACKER (open source project, Dr. Ing. Rainer Blind)
-
- stores data in .csv format on the smartphone, as well as in other formats 
-
-https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/226152/does-someone-work-on-the-android-application-a-training-tracker/1068421#1068421
-
-Someone had troubles with my posts in the Garmin forum, reason unknown. My posts are in the range of other posts in the Garmin Forum. In case of troubles, posting is also possible in the THIS IS ANT Forum
+8. Android application A TRAINING TRACKER (open source project, Dr. Ing. Rainer Blind) stores data in .csv format on the smartphone, as well as in other formats 
 
 https://www.thisisant.com/forum/viewthread/7363/
 
