@@ -11,11 +11,11 @@ Discussion about GARMIN watch - ConnectIQ-Watch-IoT - Microsoft Azure Platform (
 
 https://www.eevblog.com/forum/cloud-computing/garmin-watch-connectiq-watch-iot-microsoft-azure-platform/msg2828468/
 
-Live-stream from Garmin watches via ANT+ stick & virtual box (Darren Hague)
+Live-stream from Garmin watches via ANT+ stick & virtual box (Darren Hague) and other solutions
 
 https://www.eevblog.com/forum/cloud-computing/live-stream-from-garmin-watches-via-ant-stick-virtual-box-(evtl-coud-iot)/
 
-Discussion about sensor accuracy (The5krunner):
+Discussion about sensor accuracy with the The5krunner:
 
 https://the5krunner.com/2019/04/06/polar-oh1-review-2019/#PRICING_AVAILABILITY_Polar_OH1_Review
 
@@ -29,15 +29,11 @@ https://www.thisisant.com/forum/viewthread/7362/
 
 A TRAINING TRACKER (open source project, Dr. Ing. Rainer Blind)
 
-Feature request: adding option to live stream of sensor data to Matlab or Python trough a MQQT Brocker #34
-
-https://github.com/rainerblind/aTrainingTracker/issues/34
-
-A TRAINING TRACKER stores data in .csv format on the smartphone, as well as in other formats 
+ stores data in .csv format on the smartphone, as well as in other formats 
 
 https://forums.garmin.com/apps-software/mobile-apps-web/f/garmin-connect-web/226152/does-someone-work-on-the-android-application-a-training-tracker/1068421#1068421
 
-Someone had a trouble with my posts in the Garmin forum, reason unknown. My posts are in the range of other posts in the Garmin Forum. In case of troubles, posting is also possible here
+Someone had troubles with my posts in the Garmin forum, reason unknown. My posts are in the range of other posts in the Garmin Forum. In case of troubles, posting is also possible in the THIS IS ANT Forum
 
 https://www.thisisant.com/forum/viewthread/7363/
 
