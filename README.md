@@ -27,7 +27,7 @@ https://www.thisisant.com/forum/viewthread/7358/
 
 https://www.thisisant.com/forum/viewthread/7362/
 
-8. Android application A TRAINING TRACKER (open source project, Dr. Ing. Rainer Blind) stores data in .csv format on the smartphone, which is Matlab friendly
+8. Android application A TRAINING TRACKER (open source project, Dr. Ing. Rainer Blind) stores data in .csv format on the smartphone
 
 https://www.thisisant.com/forum/viewthread/7363/
 
