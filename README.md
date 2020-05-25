@@ -31,7 +31,7 @@ https://www.thisisant.com/forum/viewthread/7362/
 
 https://www.thisisant.com/forum/viewthread/7363/
 
-9. Python Rasperri PI project, which shows a real-time heart rate plot on the screen (Jeffery Clive):
+9. QBIKE ANT+ Cycling Training on Raspberry Pi (Jeffery Clive):
 
 https://www.thisisant.com/forum/viewthread/7371/
 
