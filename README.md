@@ -36,7 +36,9 @@ https://www.thisisant.com/forum/viewthread/7363/
 https://www.thisisant.com/forum/viewthread/7371/
 
 
-Bitalino uses Bluetooth or BLE soft- and hardware, Garmin watches use ANT+ broadcasting and almost only sensors with ANT+ support. There is hardly any ANT+ live streaming desktop applications available, and BLE would also be attractive for android application developement. Why does Garmin not offer a contemporary BLE live-streaming support for their watches and sensors, which can be connected to BLE desktop example code?
+Bitalino uses Bluetooth or BLE soft- and hardware, Garmin watches use ANT+ broadcasting and almost only sensors with ANT+ support. There is hardly any ANT+ live streaming desktop applications available, and BLE would also be attractive for android application developement. 
+
+Why does Garmin not offer a contemporary BLE live-streaming support for their watches and sensors, which can be connected to BLE desktop example code?
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
 
