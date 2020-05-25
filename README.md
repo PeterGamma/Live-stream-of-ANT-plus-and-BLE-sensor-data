@@ -31,7 +31,7 @@ https://www.thisisant.com/forum/viewthread/7362/
 
 https://www.thisisant.com/forum/viewthread/7363/
 
-9. Python Rasperri PI project, which shows a real-time heart rate plot on the screen:
+9. Python Rasperri PI project, which shows a real-time heart rate plot on the screen (Jeffery Clive):
 
 https://github.com/clivemjeffery/qbike
 
