@@ -23,9 +23,9 @@ https://the5krunner.com/2019/04/06/polar-oh1-review-2019/#PRICING_AVAILABILITY_P
 
 https://www.thisisant.com/forum/viewthread/7358/
 
-7. Rasperry PI zero watch or Pinephone as data aquisition device? (Peter Gamma):
+7.Linux Pinephone for ANT+ projects (Peter Gamma):
 
-https://www.thisisant.com/forum/viewthread/7362/
+https://www.thisisant.com/forum/viewthread/7372/
 
 8. Android application A TRAINING TRACKER (open source project, Dr. Ing. Rainer Blind) stores data in .csv format
 
