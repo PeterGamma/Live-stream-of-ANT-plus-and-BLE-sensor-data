@@ -33,13 +33,7 @@ https://www.thisisant.com/forum/viewthread/7363/
 
 9. Python Rasperri PI project, which shows a real-time heart rate plot on the screen (Jeffery Clive):
 
-https://www.strava.com/athletes/98197
-
-https://github.com/clivemjeffery/qbike
-
-Demo video:
-
-https://www.youtube.com/watch?v=lVoNQ8jtVbI&feature=youtu.be
+https://www.thisisant.com/forum/viewthread/7371/
 
 
 Bitalino uses Bluetooth or BLE soft- and hardware, Garmin uses ANT+ hardware. There is hardly any ANT+ live streaming desktop applications available. Why does Garmin not offer a Bluetooth streaming option, like other devices do?
