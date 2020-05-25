@@ -33,6 +33,8 @@ https://www.thisisant.com/forum/viewthread/7363/
 
 9. Python Rasperri PI project, which shows a real-time heart rate plot on the screen (Jeffery Clive):
 
+https://www.strava.com/athletes/98197
+
 https://github.com/clivemjeffery/qbike
 
 Demo video:
