@@ -36,7 +36,9 @@ https://www.thisisant.com/forum/viewthread/7363/
 https://www.thisisant.com/forum/viewthread/7371/
 
 
-Bitalino uses Bluetooth or BLE soft- and hardware, Garmin uses ANT+ hardware. There is hardly any ANT+ live streaming desktop applications available. Why does Garmin not offer a Bluetooth streaming option, like other devices do?
+Bitalino uses Bluetooth or BLE soft- and hardware, Garmin uses ANT+ hardware. There is hardly any ANT+ live streaming desktop applications available. Why does Garmin not offer a BLE streaming, which can be connected to BLE examples?
+
+https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
 
 
 
