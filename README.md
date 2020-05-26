@@ -35,10 +35,9 @@ https://www.thisisant.com/forum/viewthread/7363/
 
 https://www.thisisant.com/forum/viewthread/7371/
 
+10. Why does Garmin not offer BLEv5.0 support?
 
-Bitalino uses Bluetooth or BLE soft- and hardware, Garmin watches use ANT+ broadcasting and almost only sensors with ANT+ support. There is hardly any ANT+ live streaming desktop applications available, and BLE would also be attractive for android application developement. 
-
-Why does Garmin not offer a contemporary BLE live-streaming support for their watches and sensors, which can be connected to BLE desktop example code?
+There is an example of BLE devices with Heart Rate Profile using the GATT client-server scenario as specified in the Bluetooth Core Specification v5.0, Dec. 06, 2016 in Matlab
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
 
