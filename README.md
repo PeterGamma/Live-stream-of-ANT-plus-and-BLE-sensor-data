@@ -45,7 +45,7 @@ https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
-- Bluetooth LE SDK is available for Polar:
+- Bluetooth LE SDK is available for Polar heart rate sensors:
 
 https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk
 
