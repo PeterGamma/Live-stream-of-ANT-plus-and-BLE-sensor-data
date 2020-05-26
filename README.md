@@ -49,7 +49,7 @@ https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-he
 
 https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk
 
-- Bluetooth LE SDK is available for the Stryd and the Polar Foot Pod:
+- Bluetooth LE SDK is available for the Stryd Foot Pod and the Polar Foot Pod:
 
 https://www.mathworks.com/matlabcentral/answers/518075-is-there-an-example-how-to-connect-the-stryd-low-energy-foot-pod-sensor-with-matlab?s_tid=prof_contriblnk
 
