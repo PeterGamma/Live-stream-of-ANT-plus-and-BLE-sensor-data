@@ -37,21 +37,21 @@ https://www.thisisant.com/forum/viewthread/7371/
 
 10. Garmin watches and BLEv5.0 support?
 
-There is an example of BLE devices with Heart Rate Profile using the GATT client-server scenario as specified in the Bluetooth Core Specification v5.0, Dec. 06, 2016 in Matlab:
+- There is an example of BLE devices with Heart Rate Profile using the GATT client-server scenario as specified in the Bluetooth Core Specification v5.0, Dec. 06, 2016 in Matlab:
 
 https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
 
-Unfortunately, there is no example code for a specific watch available for this example in Matlab to this date, neither from Garmin or from another manufacturer:
+- Unfortunately, there is no example code for a specific watch available for this example in Matlab to this date, neither from Garmin or from another manufacturer:
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
-Bluetooth LE SDK is available for Polar:
+- Bluetooth LE SDK is available for Polar:
 
 https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk
 
-and the Stryd and the Polar Foot Pod:
+- and the Stryd and the Polar Foot Pod:
 
 https://www.mathworks.com/matlabcentral/answers/518075-is-there-an-example-how-to-connect-the-stryd-low-energy-foot-pod-sensor-with-matlab?s_tid=prof_contriblnk
 
-Keep Calm, Bluetooth Low Energy v5.0
+- Keep Calm, Bluetooth Low Energy v5.0
 
