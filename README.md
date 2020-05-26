@@ -35,7 +35,7 @@ https://www.thisisant.com/forum/viewthread/7363/
 
 https://www.thisisant.com/forum/viewthread/7371/
 
-10. Why does Garmin not offer BLEv5.0 support?
+10. Garmin watches and BLEv5.0 support?
 
 There is an example of BLE devices with Heart Rate Profile using the GATT client-server scenario as specified in the Bluetooth Core Specification v5.0, Dec. 06, 2016 in Matlab:
 
