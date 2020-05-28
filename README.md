@@ -45,4 +45,4 @@ https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-
 
 https://www.rosebikes.com/garmin-hrm-dualtm-heart-rate-chest-strap-2679363
 
-It should be possible to pair the Garmin HRM Dual to a PC with Matlab and connect the sensor to the example code.
+It should be possible to pair the Garmin HRM Dual to a PC with Matlab and connect the sensor to the Matlab example code.
