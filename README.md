@@ -49,3 +49,11 @@ https://www.rosebikes.com/garmin-hrm-dualtm-heart-rate-chest-strap-2679363
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
+- According to the Polar support, it should also  be possible to pair Bluetooth 4.0 sensors to as Bluetooth 5.0 smartphone, so eventually also Bluetooth 4.0 sensors could work with the Matlab example.
+
+- The Matlab example has only a heart rate profile integrated. But there are more BLE profiles available. Integration for instance of the BLE running speed and cadence profile 
+
+https://www.cypress.com/file/425161/download
+
+would make it possible to use also a BLE footpod. So Matlab could be used to monitor indoor activities with a heart rate sensor and a foot pod sensor.
+
