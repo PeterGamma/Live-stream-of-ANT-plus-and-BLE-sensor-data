@@ -31,7 +31,7 @@ https://www.thisisant.com/forum/viewthread/7363/
 
 https://www.thisisant.com/forum/viewthread/7371/
 
-9. Matlab and BLE support for sports sensors?
+9. Matlab and BLE instead of ANT+ sensors?
 
 Garmin HRM Dual, Polar OH1, Stryd should work with the Matlab BLE example. The door is open for a real-time indoor activity monitoring system using Matlab. Only the Matlab BLE example needs to be integrated and tested.
 
