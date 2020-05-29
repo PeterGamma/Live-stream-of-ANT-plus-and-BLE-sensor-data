@@ -35,7 +35,7 @@ https://www.thisisant.com/forum/viewthread/7371/
 
 https://the5krunner.com/2019/04/06/polar-oh1-review-2019/
 
-10. Matlab and BLE instead of ANT+ sensors?
+10. Matlab and BLE sensors instead of ANT+ sensors?
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
