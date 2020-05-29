@@ -33,7 +33,7 @@ https://www.thisisant.com/forum/viewthread/7371/
 
 9. Matlab and BLE support for sports sensors?
 
-Polar OH1 should work with the Matlab BLE example, and Stryd foot pod should work with the Matlab BLE example. All problems are solved  for a real-time indoor activity monitoring system with Matlab, Polar OH1 and Stryd. Only the Matlab BLE example needs to be integrated and tested.
+Garmin HRM Dual, Polar OH1, Stryd should work with the Matlab BLE example. The door is open for a real-time indoor activity monitoring system using Matlab. Only the Matlab BLE example needs to be integrated and tested.
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
