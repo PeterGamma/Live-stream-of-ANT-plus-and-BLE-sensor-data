@@ -37,27 +37,8 @@ https://www.thisisant.com/forum/viewthread/7371/
 
 10. Garmin watches and BLEv5.0 support?
 
-- There is an example for BLE devices with Heart Rate Profile for Bluetooth Low Energy Specification v5.0, Dec. 06, 2016 in Matlab:
-
-https://www.mathworks.com/help/comm/examples/modeling-of-ble-devices-with-heart-rate-profile.html
-
-- Garmin HRM Dual™ has ANT+®-Standard (2,4 GHz) and  BLUETOOTH® 5.0 (BLE) support:
-
-https://www.rosebikes.com/garmin-hrm-dualtm-heart-rate-chest-strap-2679363
-
-- It should be possible to pair the Garmin HRM Dual to a PC with Matlab and connect the sensor to the Matlab example code, but this this needs to be confirmed:
+Polar OH1 should work with the Matlab BLE example, and Stryd foot pod should work with the Matlab BLE example. All problems are solved  for a real-time indoor activity monitoring system with Matlab, Polar OH1 and Stryd :clap::
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
-- According to the Polar support, it should also  be possible to pair Bluetooth 4.0 sensors to as Bluetooth 5.0 smartphone, so eventually also Bluetooth 4.0 sensors could work with the Matlab example.
-
-- The Matlab example has only a heart rate profile integrated. But there are more BLE profiles available. Integration for instance of the BLE running speed and cadence profile 
-
-https://www.cypress.com/file/425161/download
-
-- would make it possible to use also a BLE footpod. So Matlab could be used to monitor indoor activities with a heart rate sensor and a foot pod sensor.
-
-- Here is the list of (all?) of the current Bluetooth Smart profiles (personal communication DC Rainmaker):
-
-https://www.bluetooth.com/specifications/gatt/
-
+A PhD. Software engineer is wanted to integrate and test the Matlab BLE example. 
