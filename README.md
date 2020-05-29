@@ -57,3 +57,7 @@ https://www.cypress.com/file/425161/download
 
 would make it possible to use also a BLE footpod. So Matlab could be used to monitor indoor activities with a heart rate sensor and a foot pod sensor.
 
+- Here is the list of (all?) of the current Bluetooth Smart profiles (personal communication DC Rainmaker):
+
+https://www.bluetooth.com/specifications/gatt/
+
