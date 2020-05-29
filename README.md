@@ -19,7 +19,7 @@ https://www.eevblog.com/forum/cloud-computing/live-stream-from-garmin-watches-vi
 
 https://www.thisisant.com/forum/viewthread/7358/
 
-6.Linux Pinephone for ANT+ projects (Peter Gamma):
+6. Linux Pinephone for ANT+ projects (Peter Gamma):
 
 https://www.thisisant.com/forum/viewthread/7372/
 
