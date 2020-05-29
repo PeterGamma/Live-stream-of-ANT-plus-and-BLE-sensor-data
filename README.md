@@ -32,8 +32,7 @@ https://www.thisisant.com/forum/viewthread/7363/
 https://www.thisisant.com/forum/viewthread/7371/
 
 9. Matlab and BLE instead of ANT+ sensors?
-
-Garmin HRM Dual (Bluetooth 5.0) should work with the Matlab BLE example.. Only the Matlab BLE example needs to be integrated and tested. Are therer any Bluetooth 5.0 foot pods available, and is BLuetooth 5.0 necessary.
+Does the Garmin HRM Dual (Bluetooth 5.0) work with the Matlab BLE example? Are there any Bluetooth 5.0 foot pods available, and is BLuetooth 5.0 really necessary for the Matlab example?
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
