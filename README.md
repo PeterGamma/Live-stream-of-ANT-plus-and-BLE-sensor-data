@@ -39,3 +39,6 @@ https://the5krunner.com/2019/04/06/polar-oh1-review-2019/
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
+11. Heart Rate Training Zone Display in Circuit, Python demo for BLE heart rate sensors:
+
+https://learn.adafruit.com/circuitpython-ble-heart-rate-monitor-gizmo?view=all
