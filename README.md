@@ -42,3 +42,9 @@ https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-he
 11. Heart Rate Training Zone Display in Circuit, Python demo for BLE heart rate sensors (Adafruit):
 
 https://github.com/PeterGamma/Heart-Rate-Training-Zone-Display-in-Circuit
+
+12. CLUE Step Counter with ST LSM6DS33
+
+https://github.com/PeterGamma/CLUE-Step-Counter
+
+
