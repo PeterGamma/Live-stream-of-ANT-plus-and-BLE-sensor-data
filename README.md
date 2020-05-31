@@ -39,6 +39,9 @@ https://the5krunner.com/2019/04/06/polar-oh1-review-2019/
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
-11. Heart Rate Training Zone Display in Circuit, Python demo for BLE heart rate sensors:
+11. Heart Rate Training Zone Display in Circuit, Python demo for BLE heart rate sensors (Adafruit):
 
 https://learn.adafruit.com/circuitpython-ble-heart-rate-monitor-gizmo?view=all
+
+To stream sensor data from a Garmin sensor to Matlab or Python, it has in Matlab an instruction which is probably easy to make real for PhD in computer engineering. The Adafruit instruction is a 33 pages when I print it out on my PC printer. With Bitalino, you can pair an ECG devise via bluetooth to a PC running Matlab or Python. A Garmin sensor is difficult to connect to a PC.
+
