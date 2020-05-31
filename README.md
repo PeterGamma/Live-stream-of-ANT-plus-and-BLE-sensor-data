@@ -39,10 +39,6 @@ https://the5krunner.com/2019/04/06/polar-oh1-review-2019/
 
 https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=prof_contriblnk
 
-11. Heart Rate Training Zone Display in Circuit, Python demo for BLE heart rate sensors (Adafruit):
-
-https://github.com/PeterGamma/Heart-Rate-Training-Zone-Display-in-Circuit
-
 11. Pyloton (Circuit Python Cycling Computer)
 
 https://github.com/PeterGamma/Pyloton-CircuitPython-Cycling-Computer
