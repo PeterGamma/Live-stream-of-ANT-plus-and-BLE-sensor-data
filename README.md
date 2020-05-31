@@ -41,4 +41,4 @@ https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-he
 
 11. Heart Rate Training Zone Display in Circuit, Python demo for BLE heart rate sensors (Adafruit):
 
-https://github.com/PeterGamma/Live-stream-of-sensor-data-from-Garmin-watches/edit/master/README.md
+https://github.com/PeterGamma/Heart-Rate-Training-Zone-Display-in-Circuit
