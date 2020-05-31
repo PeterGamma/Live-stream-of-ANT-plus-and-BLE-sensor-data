@@ -43,7 +43,7 @@ https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-he
 
 https://github.com/PeterGamma/Pyloton-CircuitPython-Cycling-Computer
 
-12. CLUE Step Counter with ST LSM6DS33
+12. CLUE Step Counter
 
 https://github.com/PeterGamma/CLUE-Step-Counter
 
