@@ -43,7 +43,11 @@ https://www.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-he
 
 https://github.com/PeterGamma/Pyloton-CircuitPython-Cycling-Computer
 
-12. CLUE Step Counter
+12. Alternatives to Pyloton
+
+https://github.com/PeterGamma/Alternatives-to-Pyloton-
+
+13. CLUE Step Counter
 
 https://github.com/PeterGamma/CLUE-Step-Counter
 
