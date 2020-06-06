@@ -51,4 +51,6 @@ https://github.com/PeterGamma/Alternatives-to-Pyloton-
 
 https://github.com/PeterGamma/CLUE-Step-Counter
 
+14. BeagleBone Blue, Bitalino, Android for step counting:
 
+https://github.com/PeterGamma/Live-stream-for-step-counting-
