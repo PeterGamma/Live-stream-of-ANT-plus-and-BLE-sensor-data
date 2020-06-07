@@ -54,3 +54,13 @@ https://github.com/PeterGamma/CLUE-Step-Counter
 14. BeagleBone Blue, Bitalino, Android for step counting:
 
 https://github.com/PeterGamma/Live-stream-for-step-counting-
+
+15.
+
+Garmin watches can now Broadcast Garmin Optical HR to Apps Like Zwift // ANT & Bluetooth:
+
+[url=https://www.youtube.com/watch?v=vuOcAP_7uec]https://www.youtube.com/watch?v=vuOcAP_7uec[/url]
+
+Matlab supports BLE, but I could not find an example of someone confirming that BLE streaming to Matlab is working:
+
+[url=https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk]https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk[/url]
