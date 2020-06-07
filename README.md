@@ -55,9 +55,7 @@ https://github.com/PeterGamma/CLUE-Step-Counter
 
 https://github.com/PeterGamma/Live-stream-for-step-counting-
 
-15.
-
-Garmin watches can now Broadcast Garmin Optical HR to Apps Like Zwift // ANT & Bluetooth:
+15. Garmin watches can now Broadcast Garmin Optical HR to Apps Like Zwift // ANT & Bluetooth:
 
 [url=https://www.youtube.com/watch?v=vuOcAP_7uec]https://www.youtube.com/watch?v=vuOcAP_7uec[/url]
 
