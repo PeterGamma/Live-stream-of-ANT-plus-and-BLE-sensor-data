@@ -67,6 +67,6 @@ Matlab supports BLE, but I could not find an example of someone confirming that 
 
 https://www.dcrainmaker.com/2019/03/polar-oh1-plus-optical-hr-sensor-in-depth-review.html
 
-17. Pyloton or Peloton Bike computer?
+17. Make yourself free from your depency of Garmin: Open Source Bike computer and Open Source Sports watch
 
 https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html
