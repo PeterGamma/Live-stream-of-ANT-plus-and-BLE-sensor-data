@@ -62,3 +62,7 @@ https://github.com/PeterGamma/Live-stream-for-step-counting-
 Matlab supports BLE, but I could not find an example of someone confirming that BLE streaming to Matlab is working:
 
 [url=https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk]https://www.mathworks.com/matlabcentral/answers/518074-is-there-an-example-how-to-connect-the-polar-oh1-bluetooth-low-energy-heart-rate-sensor-with-matlab?s_tid=prof_contriblnk[/url]
+
+16. No agreement about a scientifically validated standard for sports watch sensor accuracy with DC Rainmaker and Stephen Thomas:
+
+https://www.dcrainmaker.com/2019/03/polar-oh1-plus-optical-hr-sensor-in-depth-review.html
