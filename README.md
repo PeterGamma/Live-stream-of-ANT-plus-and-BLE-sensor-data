@@ -66,3 +66,7 @@ Matlab supports BLE, but I could not find an example of someone confirming that 
 16. No agreement about a scientifically validated standard for sports watch sensor accuracy with DC Rainmaker and Stephen Thomas:
 
 https://www.dcrainmaker.com/2019/03/polar-oh1-plus-optical-hr-sensor-in-depth-review.html
+
+17. Pyloton or Peloton Bike computer?
+
+https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html
