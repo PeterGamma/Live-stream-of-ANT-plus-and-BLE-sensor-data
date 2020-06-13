@@ -70,3 +70,9 @@ https://www.dcrainmaker.com/2019/03/polar-oh1-plus-optical-hr-sensor-in-depth-re
 17. Make yourself free from your depency of Garmin: Open Source Bike computer and Open Source Sports watch
 
 https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html
+
+18. Developement of an open source bike computer and sports watch in the Pine64 community:
+
+https://forum.pine64.org/showthread.php?tid=10172&page=2
+
+
