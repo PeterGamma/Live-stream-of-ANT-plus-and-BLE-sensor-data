@@ -75,4 +75,6 @@ https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html
 
 https://forum.pine64.org/showthread.php?tid=10172&page=2
 
+19. Access your Peloton bike computer using using GNU Octave:
 
+https://github.com/PeterGamma/Access-your-Peloton-bike-computer-using-using-GNU-Octave
