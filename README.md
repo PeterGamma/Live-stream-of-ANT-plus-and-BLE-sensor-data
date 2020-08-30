@@ -83,7 +83,10 @@ https://github.com/PeterGamma/Access-your-Peloton-bike-computer-using-using-GNU-
 
 https://ch.mathworks.com/help/matlab/import_export/collect-data-from-fitness-monitoring-devices.html
 
-Newer Garmin watches can broadcast sensor data over BLE.
+Newer Garmin watches can broadcast sensor data over BLE. A discussion can be found here:
+
+https://ch.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=mlc_ans_email_view#comment_990287
+
 
 
 
