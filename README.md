@@ -78,3 +78,12 @@ https://forum.pine64.org/showthread.php?tid=10172&page=2
 19. Access your Peloton bike computer using using GNU Octave:
 
 https://github.com/PeterGamma/Access-your-Peloton-bike-computer-using-using-GNU-Octave
+
+20. There is finally a practical example code available in Matlab for BLE heart rate sensor and BLE foot pod:
+
+https://ch.mathworks.com/help/matlab/import_export/collect-data-from-fitness-monitoring-devices.html
+
+Newer Garmin watches can broadcast sensor data over BLE.
+
+
+
