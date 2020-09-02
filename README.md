@@ -87,6 +87,9 @@ Garmin watches can broadcast sensor data over ANt+, newer Garmin watches can als
 
 https://ch.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=mlc_ans_email_view#comment_990287
 
+No additional toolboxes are necessary for Bluetooth low energy (ble supported in Matlab since 2019b version):
+
+https://ch.mathworks.com/matlabcentral/answers/561773-how-can-i-communicate-with-a-ble-bluetooth-low-energy-device-in-matlab
 
 
 
