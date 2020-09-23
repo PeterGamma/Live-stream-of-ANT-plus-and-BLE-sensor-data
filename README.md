@@ -91,5 +91,12 @@ No additional toolboxes are necessary for Bluetooth low energy (ble supported in
 
 https://ch.mathworks.com/matlabcentral/answers/561773-how-can-i-communicate-with-a-ble-bluetooth-low-energy-device-in-matlab
 
+.
+.
 
+21. Ticwatch Pro running Linux for ANT+ and BLE sensors?
 
+.
+.
+
+https://forum.xda-developers.com/smartwatch/other-smartwatches/linux-android-wear-ticwatch-pro-2020-t4166623
