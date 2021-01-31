@@ -111,6 +111,7 @@ https://towardsdatascience.com/creating-a-data-stream-with-polar-device-a5c93c9c
 
 .
 .
+This Python project is based on the Polar Android SDK. But does it also run unter Linux? 
 
 
 
