@@ -100,3 +100,18 @@ https://ch.mathworks.com/matlabcentral/answers/561773-how-can-i-communicate-with
 .
 
 https://forum.xda-developers.com/smartwatch/other-smartwatches/linux-android-wear-ticwatch-pro-2020-t4166623
+
+.
+.
+22: Creating an ECG Data Stream with Polar device:
+
+.
+.
+
+https://towardsdatascience.com/creating-a-data-stream-with-polar-device-a5c93c9ccc59
+
+.
+.
+
+
+
