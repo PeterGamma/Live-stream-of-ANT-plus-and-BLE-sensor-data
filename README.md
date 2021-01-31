@@ -103,14 +103,13 @@ https://forum.xda-developers.com/smartwatch/other-smartwatches/linux-android-wea
 .
 
 22: Creating an ECG Data Stream with Polar device:
-
 .
 .
 
 https://towardsdatascience.com/creating-a-data-stream-with-polar-device-a5c93c9ccc59
+.
+.
 
-.
-.
 This Python project is based on the Polar Android SDK. But does it also run unter Linux? 
 
 
