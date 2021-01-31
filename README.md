@@ -90,7 +90,6 @@ https://ch.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-hea
 No additional toolboxes are necessary for Bluetooth low energy (ble supported in Matlab since 2019b version):
 
 https://ch.mathworks.com/matlabcentral/answers/561773-how-can-i-communicate-with-a-ble-bluetooth-low-energy-device-in-matlab
-
 .
 .
 
