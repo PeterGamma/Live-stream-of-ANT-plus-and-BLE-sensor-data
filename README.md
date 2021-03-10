@@ -114,7 +114,7 @@ This Python project is based on the Polar Android SDK. But does it also run on a
 .
 .
 
-23: Polar Logger App with MQTT support for a real-time stream to Matlab or Python:
+23: Polar Sensor Logger with MQTT support for a real-time stream to Matlab or Python:
 
 .
 .
