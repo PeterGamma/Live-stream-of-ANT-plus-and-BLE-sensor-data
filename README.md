@@ -111,5 +111,20 @@ https://towardsdatascience.com/creating-a-data-stream-with-polar-device-a5c93c9c
 
 This Python project is based on the Polar Android SDK. But does it also run on a Linux phone? 
 
+.
+.
+
+23: Polar Logger App with MQTT support for a real-time stream to Matlab or Python:
+
+.
+.
+
+https://play.google.com/store/apps/details?id=com.j_ware.polarsensorlogger&gl=CH
+
+.
+.
+
+
+
 
 
