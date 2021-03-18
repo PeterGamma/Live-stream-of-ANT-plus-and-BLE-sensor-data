@@ -126,6 +126,17 @@ https://play.google.com/store/apps/details?id=com.j_ware.polarsensorlogger&gl=CH
 
 Jukka Happonen, Senior Specialist at Polar Electro Oy Research Center already made a very helpful contribution with his Polar Sensor Logger app, which can record many parameters from Polar sensors to .txt files, and can stream sensor data over MQTT to Influx Data Base. The Polar Sensor Logger app seems not to be an offical Polar app, but is really an easy and contemporary solution for sensor data streaming. Thank you very much for your great work, Jukka Happonen.
 
+.
+.
+
+24. Summary:
+
+.
+.
+
+Currently the easiest way to stream ANT+ sensor data from GARMIN watches to MATLAB and Python, is to use Polar sensors with the Polar Sensor Logger app, and then stream the sensor data over MQTT to the Influx Database, where it can be vizualized with Grafana. There is a Influx Database client for Matlab and Python for further data processing. 
+
+
 
 
 
