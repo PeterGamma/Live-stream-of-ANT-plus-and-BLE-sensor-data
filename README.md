@@ -136,9 +136,25 @@ Jukka Happonen, Senior Specialist at Polar Electro Oy Research Center already ma
 
 Currently the easiest way to stream ANT+ sensor data from GARMIN watches to MATLAB and Python, is to use Polar sensors with the Polar Sensor Logger app, and then stream the sensor data over MQTT to the Influx Database, where it can be vizualized with Grafana. There is a Influx Database client for Matlab and Python for further data processing. 
 
+.
+.
 
+25. MQTT for Garmin watches:
 
+.
+.
 
+Is a Rasperri PI ANT+ script which sends sensor data to an MQTT broker, or an EventHubApp which sends sensor data over the Azure Cloud to Microsoft Power PI the only option Garmin has to offer for live-streaming of sensor data?
+
+.
+.
+
+https://forums.garmin.com/developer/connect-iq/f/app-ideas/258254/mqtt-support-for-garmin-sensors
+
+.
+.
+
+Why is the MQTT, Grafana, InfluxDB, InfluxDB client for Matlab and Python not supported by Garmin?
 
 
 
