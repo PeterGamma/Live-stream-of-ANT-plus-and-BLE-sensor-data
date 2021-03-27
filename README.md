@@ -171,7 +171,7 @@ https://www.thisisant.com/forum/viewthread/7502/
 .
 
 
-27.MQTT support for the Clue Pyloton (Bluetooth low energy)?
+27.MQTT support for the Adafruit Clue Pyloton (Bluetooth low energy)?
 
 .
 .
@@ -181,7 +181,7 @@ https://forums.adafruit.com/viewtopic.php?f=65&t=177277
 .
 .
 
-28. Foot pod support for the Clue Pyloton (Bluetooth low energy)?
+28. Foot pod support for the Adafruit Clue Pyloton (Bluetooth low energy)?
 
 .
 .
