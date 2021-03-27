@@ -207,7 +207,7 @@ https://ihaque.org/posts/2020/10/15/pelomon-part-i-decoding-peloton/
 .
 .
 
-30. ANT+/BTLE to MQTT ? 
+30. Discussion in the TRAINERROAD forum: ANT+/BTLE to MQTT ?  
 
 .
 .
