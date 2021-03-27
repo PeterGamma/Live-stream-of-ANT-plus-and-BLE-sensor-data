@@ -159,7 +159,7 @@ Why is the MQTT, Grafana, InfluxDB, InfluxDB client for Matlab and Python not su
 .
 .
 
-26. ANT+ sensor logger app?
+26. ANT+ sensor logger app which sends sensor data to an MQTT broker?
 
 .
 .
