@@ -189,6 +189,23 @@ https://forums.adafruit.com/viewtopic.php?f=65&t=177277
 https://forums.adafruit.com/viewtopic.php?f=65&t=177278
 
 
+.
+.
+
+29. PeloMon: Peloton data capture with Bluetooth (Imran Haque, PhD. Data scientist, computational biologist)
+
+.
+.
+
+Imran Haque decoded (most of) the protocol that the Peloton bike uses to communicate with its head unit tablet and built a device, the PeloMon, that takes that data during a ride, without interfering with the Peloton software, to broadcast it over Bluetooth LE to whatever devices you’d like — a watch, Zwift, Wahoo, whatever. 
+
+.
+.
+
+https://ihaque.org/posts/2020/10/15/pelomon-part-i-decoding-peloton/
+
+
+https://ihaque.org/posts/2020/10/15/pelomon-part-i-decoding-peloton/
 
 
 
