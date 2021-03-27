@@ -205,7 +205,5 @@ Imran Haque decoded (most of) the protocol that the Peloton bike uses to communi
 https://ihaque.org/posts/2020/10/15/pelomon-part-i-decoding-peloton/
 
 
-https://ihaque.org/posts/2020/10/15/pelomon-part-i-decoding-peloton/
-
 
 
