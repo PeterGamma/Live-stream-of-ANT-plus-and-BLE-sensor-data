@@ -204,6 +204,20 @@ Imran Haque decoded (most of) the protocol that the Peloton bike uses to communi
 
 https://ihaque.org/posts/2020/10/15/pelomon-part-i-decoding-peloton/
 
+.
+.
+
+30. ANT+/BTLE to MQTT:
+
+.
+.
+
+https://www.trainerroad.com/forum/t/ant-btle-to-mqtt/42937
+
+
+
+
+
 
 
 
