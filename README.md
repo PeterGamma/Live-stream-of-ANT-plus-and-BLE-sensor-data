@@ -139,7 +139,7 @@ Currently the easiest way to stream ANT+ sensor data from GARMIN watches to MATL
 .
 .
 
-25. MQTT for Garmin watches:
+25. MQTT for Garmin watches ?
 
 .
 .
@@ -207,7 +207,7 @@ https://ihaque.org/posts/2020/10/15/pelomon-part-i-decoding-peloton/
 .
 .
 
-30. ANT+/BTLE to MQTT:
+30. ANT+/BTLE to MQTT ? 
 
 .
 .
