@@ -159,7 +159,19 @@ Why is the MQTT, Grafana, InfluxDB, InfluxDB client for Matlab and Python not su
 .
 .
 
-26.MQTT support for the Clue Pyloton (Bluetooth low energy)?
+26. ANT+ sensor logger app?
+
+.
+.
+
+
+https://www.thisisant.com/forum/viewthread/7502/
+
+.
+.
+
+
+27.MQTT support for the Clue Pyloton (Bluetooth low energy)?
 
 .
 .
@@ -169,7 +181,7 @@ https://forums.adafruit.com/viewtopic.php?f=65&t=177277
 .
 .
 
-27. Foot pod support for the Clue Pyloton (Bluetooth low energy)?
+28. Foot pod support for the Clue Pyloton (Bluetooth low energy)?
 
 .
 .
