@@ -156,5 +156,17 @@ https://forums.garmin.com/developer/connect-iq/f/app-ideas/258254/mqtt-support-f
 
 Why is the MQTT, Grafana, InfluxDB, InfluxDB client for Matlab and Python not supported by Garmin?
 
+.
+.
+
+26.MQTT support for the Clue Pyloton (Bluetooth low energy)?
+
+.
+.
+
+https://forums.adafruit.com/viewtopic.php?f=65&t=177277
+
+
+
 
 
