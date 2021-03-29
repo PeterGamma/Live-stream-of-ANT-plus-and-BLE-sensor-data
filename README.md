@@ -217,7 +217,7 @@ https://www.trainerroad.com/forum/t/ant-btle-to-mqtt/42937
 .
 .
 
-Does Matlab consultant Adam Danz or Matlab undelete my Matlab questions, which where deleted for reasons I cannot follow?
+31. Does Matlab consultant Adam Danz or Matlab undelete my Matlab questions, which where deleted for reasons I cannot follow?
 
 .
 .
