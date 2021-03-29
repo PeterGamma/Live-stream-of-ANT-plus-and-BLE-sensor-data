@@ -214,6 +214,16 @@ https://ihaque.org/posts/2020/10/15/pelomon-part-i-decoding-peloton/
 
 https://www.trainerroad.com/forum/t/ant-btle-to-mqtt/42937
 
+.
+.
+
+Does Matlab consultant Adam Danz or Matlab undelete my Matlab questions, which where deleted for reasons I cannot follow?
+
+.
+.
+
+https://ch.mathworks.com/matlabcentral/answers/758469-does-matlab-consultant-adam-danz-or-matlab-undelete-my-matlab-questions-which-where-deleted-for-rea?s_tid=prof_contriblnk
+
 
 
 
