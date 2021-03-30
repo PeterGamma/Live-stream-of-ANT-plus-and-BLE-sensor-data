@@ -224,6 +224,29 @@ https://www.trainerroad.com/forum/t/ant-btle-to-mqtt/42937
 
 https://ch.mathworks.com/matlabcentral/answers/758469-does-matlab-consultant-adam-danz-or-matlab-undelete-my-matlab-questions-which-where-deleted-for-rea?s_tid=prof_contriblnk
 
+.
+.
+
+32. How to Run MATLAB Code in Octave:
+
+.
+.
+
+https://itstillworks.com/12562105/how-to-run-matlab-code-in-octave
+
+.
+.
+
+
+33. How to convert matlab code to python:
+
+.
+.
+
+https://www.youtube.com/watch?v=AxeJayy5oLA
+
+
+
 
 
 
