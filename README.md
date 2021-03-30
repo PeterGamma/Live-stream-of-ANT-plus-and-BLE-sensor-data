@@ -245,6 +245,17 @@ https://itstillworks.com/12562105/how-to-run-matlab-code-in-octave
 
 https://www.youtube.com/watch?v=AxeJayy5oLA
 
+.
+.
+
+34. Bluetooth Low-Energy Heart Rate Monitor data logging in Python:
+
+.
+.
+
+https://github.com/fg1/BLEHeartRateLogger
+
+
 
 
 
