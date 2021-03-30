@@ -227,7 +227,7 @@ https://ch.mathworks.com/matlabcentral/answers/758469-does-matlab-consultant-ada
 .
 .
 
-In the Matlab community, questions about post deletion are deleted. Is this the right community for enlightened scientists?
+After postings at XDA developers about Poco F1, where I mentioned Matlab, my last question in the Matlab community about post deletion was deleted. I worked almost a week on this question. Is the Matlab community the right community for enlightened scientists? I invite everybody  to send me an e-mail to discuss about this barbaric act. I promise, I won t delete any e-mails.
 
 .
 .
