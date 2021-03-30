@@ -227,7 +227,7 @@ https://ch.mathworks.com/matlabcentral/answers/758469-does-matlab-consultant-ada
 .
 .
 
-In the Matlab community, questions about post deletion are deleted. Is this the right communiy for enlightened scientists?
+In the Matlab community, questions about post deletion are deleted. Is this the right community for enlightened scientists?
 
 .
 .
