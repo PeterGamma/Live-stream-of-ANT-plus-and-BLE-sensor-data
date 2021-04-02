@@ -47,9 +47,6 @@ https://github.com/PeterGamma/Pyloton-CircuitPython-Cycling-Computer
 
 https://github.com/PeterGamma/Alternatives-to-Pyloton-
 
-13. CLUE Step Counter
-
-https://github.com/PeterGamma/CLUE-Step-Counter
 
 14. BeagleBone Blue, Bitalino, Android for step counting:
 
@@ -70,14 +67,6 @@ https://www.dcrainmaker.com/2019/03/polar-oh1-plus-optical-hr-sensor-in-depth-re
 17. Make yourself free from your depency of Garmin: Open Source Bike computer and Open Source Sports watch
 
 https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html
-
-18. Developement of an open source bike computer and sports watch in the Pine64 community:
-
-https://forum.pine64.org/showthread.php?tid=10172&page=2
-
-19. Access your Peloton bike computer using using GNU Octave:
-
-https://github.com/PeterGamma/Access-your-Peloton-bike-computer-using-using-GNU-Octave
 
 20. There is finally a practical example code available in Matlab for BLE heart rate sensor and BLE foot pod:
 
@@ -170,42 +159,6 @@ https://www.thisisant.com/forum/viewthread/7502/
 .
 .
 
-
-27.MQTT support for the Adafruit Clue Pyloton (Bluetooth low energy)?
-
-.
-.
-
-https://forums.adafruit.com/viewtopic.php?f=65&t=177277
-
-.
-.
-
-28. Foot pod support for the Adafruit Clue Pyloton (Bluetooth low energy)?
-
-.
-.
-
-https://forums.adafruit.com/viewtopic.php?f=65&t=177278
-
-
-.
-.
-
-29. PeloMon: Peloton data capture with Bluetooth (Imran Haque, PhD. Data scientist, computational biologist)
-
-.
-.
-
-Imran Haque decoded (most of) the protocol that the Peloton bike uses to communicate with its head unit tablet and built a device, the PeloMon, that takes that data during a ride, without interfering with the Peloton software, to broadcast it over Bluetooth LE to whatever devices you’d like — a watch, Zwift, Wahoo, whatever. 
-
-.
-.
-
-https://ihaque.org/posts/2020/10/15/pelomon-part-i-decoding-peloton/
-
-.
-.
 
 30. Discussion in the TRAINERROAD forum: ANT+/BTLE to MQTT ?  
 
