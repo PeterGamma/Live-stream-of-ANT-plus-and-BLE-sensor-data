@@ -218,6 +218,15 @@ https://www.youtube.com/watch?v=AxeJayy5oLA
 
 https://github.com/fg1/BLEHeartRateLogger
 
+.
+.
+
+35. Adafruit Pyloton open source bike computer
+
+.
+.
+
+https://petergamma.org/read-out-sensor-data-from-the-adafruit-clue-pyloton/
 
 
 
