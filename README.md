@@ -64,15 +64,12 @@ Matlab supports BLE, but I could not find an example of someone confirming that 
 
 https://www.dcrainmaker.com/2019/03/polar-oh1-plus-optical-hr-sensor-in-depth-review.html
 
-17. Make yourself free from your depency of Garmin: Open Source Bike computer and Open Source Sports watch
-
-https://www.dcrainmaker.com/2020/01/computers-worldtour-peloton.html
 
 20. There is finally a practical example code available in Matlab for BLE heart rate sensor and BLE foot pod:
 
 https://ch.mathworks.com/help/matlab/import_export/collect-data-from-fitness-monitoring-devices.html
 
-Garmin watches can broadcast sensor data over ANt+, newer Garmin watches can also broadcast sensor data over BLE and should also work with the BLE Matlab example:
+Garmin watches can broadcast sensor data over ANT+, newer Garmin watches can also broadcast sensor data over BLE and should also work with the BLE Matlab example:
 
 https://ch.mathworks.com/matlabcentral/answers/533393-are-there-specific-ble-heart-rate-sensor-devices-available-which-are-compatible-to-the-example-model?s_tid=mlc_ans_email_view#comment_990287
 
@@ -98,7 +95,7 @@ https://towardsdatascience.com/creating-a-data-stream-with-polar-device-a5c93c9c
 .
 .
 
-This Python project is based on the Polar Android SDK. But does it also run on a Linux phone? 
+This Python project is based on the Polar Android SDK.  
 
 .
 .
@@ -118,7 +115,7 @@ Jukka Happonen, Senior Specialist at Polar Electro Oy Research Center already ma
 .
 .
 
-24. Summary:
+24. Garmin watch and sensor streaming?:
 
 .
 .
@@ -201,7 +198,7 @@ https://itstillworks.com/12562105/how-to-run-matlab-code-in-octave
 .
 
 
-33. How to convert matlab code to python:
+33. How to convert MATLAB code to python:
 
 .
 .
@@ -221,7 +218,7 @@ https://github.com/fg1/BLEHeartRateLogger
 .
 .
 
-35. Adafruit Pyloton open source bike computer
+35. Porting the Adafruit Pyloton open source bike computer to a platform with more features:
 
 .
 .
