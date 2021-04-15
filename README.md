@@ -237,6 +237,20 @@ https://petergamma.org/read-out-sensor-data-from-the-adafruit-clue-pyloton/
 https://petergamma.org/sensor-streaming-over-ipbike-and-livetracking-io/
 
 
+.
+.
+
+37. Linux AsteroidOS sports watch
+
+.
+.
+
+https://petergamma.org/linux-asteroidos-sports-watch/
+
+
+
+
+
 
 
 
