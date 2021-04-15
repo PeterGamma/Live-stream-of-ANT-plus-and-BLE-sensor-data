@@ -226,6 +226,15 @@ https://github.com/fg1/BLEHeartRateLogger
 https://petergamma.org/read-out-sensor-data-from-the-adafruit-clue-pyloton/
 
 
+.
+.
+
+36. Sensor streaming over IpBike and Livetracking.io
+
+.
+.
+
+https://petergamma.org/sensor-streaming-over-ipbike-and-livetracking-io/
 
 
 
