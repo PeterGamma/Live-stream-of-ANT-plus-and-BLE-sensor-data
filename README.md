@@ -167,21 +167,6 @@ https://www.trainerroad.com/forum/t/ant-btle-to-mqtt/42937
 .
 .
 
-31. Does Matlab consultant Adam Danz or Matlab undelete my Matlab questions, which where deleted for reasons I cannot follow?
-
-.
-.
-
-https://ch.mathworks.com/matlabcentral/answers/758469-does-matlab-consultant-adam-danz-or-matlab-undelete-my-matlab-questions-which-where-deleted-for-rea?s_tid=prof_contriblnk
-
-.
-.
-
-After postings at XDA developers about Poco F1, where I mentioned Matlab, my last question in the Matlab community about post deletion was deleted. I worked almost a week on this question. Is the Matlab community the right community for enlightened scientists? I invite everybody  to send me an e-mail to discuss about this.Since I have observed that many of my posts where deleted in different communities after I published a list of my deleted posts in the Matlab community on my blog, I removed this list from my blog. I am convinced that I would win the case of post deletion in the Matlab community if I took legal action. I will do without it for the time being. 
-
-.
-.
-
 https://petergamma.org/arbitrary-post-deletion-in-the-matlab-community/
 
 .
