@@ -232,6 +232,13 @@ https://petergamma.org/sensor-streaming-over-ipbike-and-livetracking-io/
 
 https://petergamma.org/linux-asteroidos-sports-watch/
 
+.
+.
+
+38. Darren Hagues Vpower for ANT+ sensor streaming to a Windows PC:
+There are several ANT+ projects which run on a Rasperri PI and send sensor data for instance to an MQTT broker. These projects run as far as I know also on Linux. Darren Hagues Vpower also runs on a Rasperri PI, but it can also run under Windows. Vpower can be modified to be used for other parameters, for instance heart rate:
+
+https://github.com/dhague/vpower
 
 
 
