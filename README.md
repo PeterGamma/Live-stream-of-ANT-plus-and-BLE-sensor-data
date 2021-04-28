@@ -248,7 +248,12 @@ https://github.com/dhague/vpower
 .
 .
 
-39. 
+39.Rasperri Pi 400 & Ubuntu, ANT+ & MQTT
+
+.
+.
+https://petergamma.org/rasperri-pi-400-ubuntu-ant-mqtt/
+
 
 
 
