@@ -168,11 +168,6 @@ https://www.trainerroad.com/forum/t/ant-btle-to-mqtt/42937
 .
 .
 
-https://petergamma.org/arbitrary-post-deletion-in-the-matlab-community/
-
-.
-.
-
 32. How to Run MATLAB Code in Octave:
 
 .
