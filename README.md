@@ -250,8 +250,20 @@ https://github.com/dhague/vpower
 
 https://petergamma.org/rasperri-pi-400-ubuntu-ant-mqtt/
 
+.
+.
 
+40. Pelomon rethought
 
+.
+.
+
+I suppose a guy like Imran S. Haque, PhD, by training, an engineer and computer scientist, focusing on machine learning and fast, scalable code, by interest a computational biologist, with interests in (epi)genetics, structural biology and biophysics, and drug discovery, will solve the problems discussed here sooner or later, or eventually have solved those already:
+
+.
+.
+
+https://www.hackster.io/news/dr-imran-haque-s-pelomon-project-untethers-the-peloton-transmits-its-data-via-bluetooth-low-energy-ff927e85c9d3
 
 
 
