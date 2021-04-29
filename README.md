@@ -253,7 +253,7 @@ https://petergamma.org/rasperri-pi-400-ubuntu-ant-mqtt/
 .
 .
 
-40. PeloMon: Peloton data capture with Bluetooth
+40. PeloMon: send sensor data to a fitness tracker of your choice
 
 .
 .
