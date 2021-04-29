@@ -253,19 +253,16 @@ https://petergamma.org/rasperri-pi-400-ubuntu-ant-mqtt/
 .
 .
 
-40. Pelomon developed by Imran Haque, PhD.
+40. PeloMon: Peloton data capture with Bluetooth
 
 .
 .
 
-Imran S. Haque, PhD, by training, an engineer and computer scientist, focusing on machine learning and fast, scalable code, by interest a computational biologist, with interests in (epi)genetics, structural biology and biophysics, and drug discovery, has developed a project which could be very helpful to use it for scientific purposes. Haque's project has also a great potential to be used as a basis for collaborative public software and hardware development. 
-
-
+https://petergamma.org/pelomon-peloton-data-capture-with-bluetooth/
 
 .
 .
 
-https://www.hackster.io/news/dr-imran-haque-s-pelomon-project-untethers-the-peloton-transmits-its-data-via-bluetooth-low-energy-ff927e85c9d3
 
 
 
