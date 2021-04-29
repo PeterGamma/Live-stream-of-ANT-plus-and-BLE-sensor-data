@@ -253,12 +253,14 @@ https://petergamma.org/rasperri-pi-400-ubuntu-ant-mqtt/
 .
 .
 
-40. Pelomon rethought
+40. Pelomon developed by Imran Haque, PhD.
 
 .
 .
 
-I suppose a guy like Imran S. Haque, PhD, by training, an engineer and computer scientist, focusing on machine learning and fast, scalable code, by interest a computational biologist, with interests in (epi)genetics, structural biology and biophysics, and drug discovery, will solve the problems discussed here sooner or later, or eventually has solved those already:
+Imran S. Haque, PhD, by training, an engineer and computer scientist, focusing on machine learning and fast, scalable code, by interest a computational biologist, with interests in (epi)genetics, structural biology and biophysics, and drug discovery, has developed a project which could be very helpful to use it for scientific purposes. Haque's project has also a great potential to be used as a basis for collaborative public software and hardware development. 
+
+
 
 .
 .
