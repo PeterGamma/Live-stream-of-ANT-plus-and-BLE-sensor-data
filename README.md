@@ -258,7 +258,7 @@ https://petergamma.org/rasperri-pi-400-ubuntu-ant-mqtt/
 .
 .
 
-https://petergamma.org/pelomon-peloton-data-capture-with-bluetooth/
+https://petergamma.org/pelomon-send-sensor-data-to-a-fitness-tracker-of-your-choice/
 
 .
 .
