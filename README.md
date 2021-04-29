@@ -263,6 +263,12 @@ https://petergamma.org/pelomon-send-sensor-data-to-a-fitness-tracker-of-your-cho
 .
 .
 
+41. Unbricking a $2,000 Bike With a $10 Raspberry Pi
+
+.
+.
+
+https://ptx2.net/posts/unbricking-a-bike-with-a-raspberry-pi/
 
 
 
