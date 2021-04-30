@@ -270,7 +270,15 @@ https://petergamma.org/pelomon-send-sensor-data-to-a-fitness-tracker-of-your-cho
 
 https://reprage.com/post/how-to-connect-the-raspberry-pi-to-a-bluetooth-heart-rate-monitor
 
+.
+.
 
+42. Script to illustrate heart rate capturing with Ant+ (Johannes Bader, Switzerland) 
+
+.
+.
+
+https://gist.github.com/baderj/c41d2bbe0aeded3506cf
 
 
 
