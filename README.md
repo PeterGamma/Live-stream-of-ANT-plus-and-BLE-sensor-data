@@ -273,7 +273,7 @@ https://reprage.com/post/how-to-connect-the-raspberry-pi-to-a-bluetooth-heart-ra
 .
 .
 
-42. Script to illustrate heart rate capturing with Ant+ (Johannes Bader, Switzerland) 
+42. Script to illustrate heart rate capturing with Ant+ (Johannes Bader PhD., Switzerland) 
 
 .
 .
