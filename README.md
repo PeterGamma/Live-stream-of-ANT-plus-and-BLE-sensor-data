@@ -263,7 +263,7 @@ https://petergamma.org/pelomon-send-sensor-data-to-a-fitness-tracker-of-your-cho
 .
 .
 
-41. How to connect the Raspberry Pi to a Bluetooth heart rate monitor.
+41. How to connect the Raspberry Pi to a Bluetooth heart rate monitor (Clinton Freeman, software engineer)
 
 .
 .
