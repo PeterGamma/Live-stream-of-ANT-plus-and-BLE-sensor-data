@@ -253,7 +253,7 @@ https://petergamma.org/rasperri-pi-400-ubuntu-ant-mqtt/
 .
 .
 
-40. PeloMon: broadcast sensor data to whatever devices you want
+40. PeloMon: broadcast sensor data to whatever devices you want (Imran S. Haque, PhD.)
 
 .
 .
@@ -273,8 +273,7 @@ https://reprage.com/post/how-to-connect-the-raspberry-pi-to-a-bluetooth-heart-ra
 .
 .
 
-42. What can we do with a Raspberry Pi with Ant+?
-
+42. What can we do with a Raspberry Pi with Ant+ (ported to Rasperri PI by Johannes Bader, PhD.)
 .
 .
 
