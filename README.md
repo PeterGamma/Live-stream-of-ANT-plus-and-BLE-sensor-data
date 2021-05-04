@@ -273,7 +273,8 @@ https://reprage.com/post/how-to-connect-the-raspberry-pi-to-a-bluetooth-heart-ra
 .
 .
 
-42. What can we do with a Raspberry Pi with Ant+ (ported to Rasperri PI by Johannes Bader, PhD.)
+42. What can we do with a Raspberry Pi with Ant+ (ported to a Rasperri PI by Johannes Bader, PhD.)
+
 .
 .
 
