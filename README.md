@@ -274,7 +274,7 @@ https://reprage.com/post/how-to-connect-the-raspberry-pi-to-a-bluetooth-heart-ra
 .
 
 42. Johannes Bader, PhD. focused on getting the ANT+ stick to run on Raspberry Pi. But what can we do with a Rasperri Pi
-with ANT+ stick?
+with an ANT+ stick?
 
 .
 .
