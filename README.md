@@ -7,6 +7,10 @@ https://www.mathworks.com/matlabcentral/answers/142677-capturing-heart-rate-from
 
 https://www.thisisant.com/forum/viewthread/7360/
 
+Data protection of Reto Rölli Rasperri ANT+
+
+https://infinityflow.ch/datenschutzerklaerung/
+
 3. Discussion about GARMIN watch - ConnectIQ-Watch-IoT - Microsoft Azure Platform (Dave Lusty):
 
 https://www.eevblog.com/forum/cloud-computing/garmin-watch-connectiq-watch-iot-microsoft-azure-platform/msg2828468/
