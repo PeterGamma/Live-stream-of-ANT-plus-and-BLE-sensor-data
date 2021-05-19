@@ -240,7 +240,9 @@ https://petergamma.org/linux-asteroidos-sports-watch/
 .
 .
 
-Hague s project uses Python with a Raspberry Pi and ANT+ stick to read bicycle speed and write bicycle power. You should be able to use it as a template to read HR data or other ANT+ sensor data by reading the ANT+ HR profile spec and adapting the code to suit.
+Darren Hague developed a project to use Python with a Raspberry Pi and ANT+ stick to read bicycle speed and write bicycle power. You should be able to use it as a template to read HR data by reading the ANT+ HR profile spec and adapting the SpeedCadenceSensorRx.py code to suit.
+
+
 
 https://github.com/dhague/vpower
 
