@@ -235,12 +235,12 @@ https://petergamma.org/linux-asteroidos-sports-watch/
 .
 .
 
-38. Darren Hague PhD, ANT+ Virtual Power Meter (Rasperri PI, Ubuntu, Windows)
+38. Darren Hague PhD, ANT+ Virtual Power Meter (runs on Rasperri PI, Ubuntu, Windows)
 
 .
 .
 
-project to use Python with a Raspberry Pi and ANT+ stick to read bicycle speed and write bicycle power. You should be able to use it as a template to read HR data by reading the ANT+ HR profile spec and adapting the code to suit.
+Hague s project uses Python with a Raspberry Pi and ANT+ stick to read bicycle speed and write bicycle power. You should be able to use it as a template to read HR data or other ANT+ sensor data by reading the ANT+ HR profile spec and adapting the code to suit.
 
 https://github.com/dhague/vpower
 
