@@ -235,7 +235,7 @@ https://petergamma.org/linux-asteroidos-sports-watch/
 .
 .
 
-38. Darren Hagues Vpower for ANT+ sensor streaming to a Windows PC:
+38. Darren Hague s PhD. Vpower for ANT+ sensor streaming (works on Rasperri PI, Ubuntu, Windows):
 
 .
 .
