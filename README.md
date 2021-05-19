@@ -235,12 +235,12 @@ https://petergamma.org/linux-asteroidos-sports-watch/
 .
 .
 
-38. Darren Hague s PhD. Vpower for ANT+ sensor streaming (works on Rasperri PI, Ubuntu, Windows):
+38. Darren Hague PhD, ANT+ Virtual Power Meter (Rasperri PI, Ubuntu, Windows)
 
 .
 .
 
-There are several ANT+ projects which run on a Rasperri PI and send sensor data for instance to an MQTT broker. These projects run as far as I know also on Linux. Darren Hagues Vpower also runs on a Rasperri PI, but it can also run under Windows. Vpower can be modified to be used for other parameters, for instance heart rate:
+project to use Python with a Raspberry Pi and ANT+ stick to read bicycle speed and write bicycle power. You should be able to use it as a template to read HR data by reading the ANT+ HR profile spec and adapting the code to suit.
 
 https://github.com/dhague/vpower
 
