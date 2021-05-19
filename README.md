@@ -287,6 +287,25 @@ with an ANT+ stick?
 
 https://petergamma.org/what-can-we-do-with-captured-ant-data/
 
+.
+.
+
+43. Ant+ Weight Scale MQTT Publisher (Frank Tkalcevic)
+
+.
+.
+
+http://www.franksworkshop.com.au/wordpress/2020/01/25/ant-weight-scale-mqtt-publisher/
+
+.
+.
+
+licence of Ant+ Weight Scale MQTT Publisher:
+
+.
+.
+
+https://github.com/ftkalcevic/MQTT_AntScale.Net/blob/master/License.txt
 
 
 
