@@ -287,4 +287,14 @@ with an ANT+ stick?
 
 https://petergamma.org/what-can-we-do-with-captured-ant-data/
 
+.
+.
+
+43. Send BLE sensor data from the Adafruit Clue chip (Pyloton Open Source Bike computer) to Adafruit IO with a Raspberry Pi bridge (John Park, Adafruit):
+
+.
+.
+
+
+https://learn.adafruit.com/bluetooth-le-broadcastnet-sensor-node-raspberry-pi-wifi-bridge/overview
 
