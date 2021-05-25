@@ -300,7 +300,7 @@ https://learn.adafruit.com/bluetooth-le-broadcastnet-sensor-node-raspberry-pi-wi
 .
 .
 
-but Adafruit IO HAS NO SUPPORT FOR SPORT SENSOR DATA:
+44. but Adafruit IO HAS NO SUPPORT FOR SPORT SENSOR DATA:
 
 .
 .
