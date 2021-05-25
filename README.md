@@ -296,8 +296,10 @@ https://petergamma.org/what-can-we-do-with-captured-ant-data/
 .
 
 https://learn.adafruit.com/bluetooth-le-broadcastnet-sensor-node-raspberry-pi-wifi-bridge/overview
+
 .
 .
+
 but Adafruit IO HAS NO SUPPORT FOR SPORT SENSOR DATA:
 
 .
