@@ -306,3 +306,14 @@ https://learn.adafruit.com/bluetooth-le-broadcastnet-sensor-node-raspberry-pi-wi
 .
 
 https://petergamma.org/adafruit-io-has-no-support-for-sport-sensor-data/
+
+.
+.
+
+45.Discontinued, the rest of what I found out is published on my blog:
+
+.
+.
+
+https://petergamma.org/
+
