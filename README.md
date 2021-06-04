@@ -310,7 +310,7 @@ https://petergamma.org/adafruit-io-has-no-support-for-sport-sensor-data/
 .
 .
 
-45. This thread only contains readme files, and is discontinued. The rest of what could be found regarding this topic can be found on my blog page Peter Gamma:
+45. This thread only contains readme files, and is discontinued. The rest regarding this topic can be found on my blog page Peter Gamma:
 
 .
 .
